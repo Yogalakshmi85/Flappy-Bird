@@ -28,9 +28,9 @@ https://github.com/user-attachments/assets/efcd6f19-e53f-43ed-a6eb-5fc29c732adf
 
 ## 🕹️ How to Play
 
--- Press the Spacebar to make the bird jump.
--- Avoid the pipes and the ground by carefully timing your jumps.
--- Try to achieve the highest score possible!
--- If you crash, press Spacebar again to restart.
+- Press the Spacebar to make the bird jump.
+- Avoid the pipes and the ground by carefully timing your jumps.
+- Try to achieve the highest score possible!
+- If you crash, press Spacebar again to restart.
 
-## Have fun playing! 🚀
+### Have fun playing! 🚀
